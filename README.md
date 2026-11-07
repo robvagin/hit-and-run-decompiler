@@ -1,9 +1,7 @@
-# Hit & Run Decompiler
+# Moved
 
-The landing page of the Hit & Run Decompiler: The Simpsons: Hit & Run from your own PS2 disc, as a native PSP game.
+This site is now **Hit & Run Recompiler**: https://robvagin.github.io/hit-and-run-recompiler/
 
-Live: https://robvagin.github.io/hit-and-run-decompiler/
+Code of the page: https://github.com/robvagin/hit-and-run-recompiler
 
-The engine and the builder: https://github.com/robvagin/shar-psp-engine
-
-One self-contained file, `index.html`: the PSP-2000 drawing, its fonts and the footage are inside it. No game files are included.
+This repository only keeps the old address working: it sends visitors and link previews to the new one.
